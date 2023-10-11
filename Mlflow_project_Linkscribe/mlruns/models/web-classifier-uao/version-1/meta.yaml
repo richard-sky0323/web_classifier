@@ -1,0 +1,13 @@
+aliases: []
+creation_timestamp: 1696916632443
+current_stage: Production
+description: null
+last_updated_timestamp: 1696916771869
+name: web-classifier-uao
+run_id: 9d3e033db7ed4677908918ef4200794f
+run_link: null
+source: file:///C:/Users/Richard%20Alejandro/Workspace/project-MLflow/Mlflow_project_Linkscribe/mlruns/632306513088104617/9d3e033db7ed4677908918ef4200794f/artifacts/LinearSVC
+status: READY
+status_message: null
+user_id: null
+version: 1

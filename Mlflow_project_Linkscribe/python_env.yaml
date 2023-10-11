@@ -1,0 +1,18 @@
+python: ">=3.9,<3.13"
+build_dependencies:
+  - pip
+dependencies:
+  - scipy
+  - numpy
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - seaborn
+  - ipython
+  - cloudpickle
+  - mlflow
+  - request
+  - click
+  - spacy
+  - beautifulsoup4
+  - lxml

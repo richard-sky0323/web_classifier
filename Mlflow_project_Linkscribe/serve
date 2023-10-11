@@ -1,0 +1,1 @@
+mlflow models serve --model-uri models:/web-classifier-uao/Production -p 8081 --no-conda

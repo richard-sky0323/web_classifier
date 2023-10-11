@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Richard%20Alejandro/Workspace/project-MLflow/Mlflow_project_Linkscribe/mlruns/632306513088104617/9d3e033db7ed4677908918ef4200794f/artifacts
+end_time: 1696914715279
+entry_point_name: ''
+experiment_id: '632306513088104617'
+lifecycle_stage: active
+run_id: 9d3e033db7ed4677908918ef4200794f
+run_name: LinearSVC-20231010-001143
+run_uuid: 9d3e033db7ed4677908918ef4200794f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696914703301
+status: 3
+tags: []
+user_id: Richard Alejandro
